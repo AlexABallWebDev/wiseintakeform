@@ -1,0 +1,601 @@
+[03-Dec-2015 23:18:07 America/Chicago] PHP Fatal error:  Call to undefined function create_checkbox_buttons() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 183
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: button_count in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 33
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:31 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:47 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:47 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:47 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:47 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:47 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:24:47 America/Chicago] PHP Notice:  Undefined variable: radio in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 38
+[03-Dec-2015 23:34:11 America/Chicago] PHP Warning:  Missing argument 3 for create_radio_buttons(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 127 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 9
+[03-Dec-2015 23:34:11 America/Chicago] PHP Warning:  Missing argument 4 for create_radio_buttons(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 127 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 9
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Warning:  Missing argument 3 for create_radio_buttons(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 9
+[03-Dec-2015 23:34:11 America/Chicago] PHP Warning:  Missing argument 4 for create_radio_buttons(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 9
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Warning:  Missing argument 3 for create_radio_buttons(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 161 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 9
+[03-Dec-2015 23:34:11 America/Chicago] PHP Warning:  Missing argument 4 for create_radio_buttons(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 161 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 9
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 16
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 18
+[03-Dec-2015 23:34:11 America/Chicago] PHP Fatal error:  Call to undefined function create_checkbox_buttons() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 182
+[03-Dec-2015 23:38:07 America/Chicago] PHP Fatal error:  Call to undefined function create_radio_buttons() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 127
+[03-Dec-2015 23:38:31 America/Chicago] PHP Warning:  Missing argument 3 for create_radio_checkbox_list(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 127 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 12
+[03-Dec-2015 23:38:31 America/Chicago] PHP Warning:  Missing argument 4 for create_radio_checkbox_list(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 127 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 12
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: type in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:31 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 19
+[03-Dec-2015 23:38:51 America/Chicago] PHP Notice:  Undefined variable: itemName in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 22
+[03-Dec-2015 23:56:52 America/Chicago] PHP Warning:  require(wise-form-footer): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 198
+[03-Dec-2015 23:56:52 America/Chicago] PHP Warning:  require(wise-form-footer): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 198
+[03-Dec-2015 23:56:52 America/Chicago] PHP Fatal error:  require(): Failed opening required 'wise-form-footer' (include_path='.:/opt/php54/lib/php') in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 198
+[03-Dec-2015 23:56:59 America/Chicago] PHP Warning:  require(includes/wise-form-footer): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 198
+[03-Dec-2015 23:56:59 America/Chicago] PHP Warning:  require(includes/wise-form-footer): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 198
+[03-Dec-2015 23:56:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'includes/wise-form-footer' (include_path='.:/opt/php54/lib/php') in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 198
+[04-Dec-2015 00:35:13 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-page-swap.php on line 15
+[05-Dec-2015 12:43:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 184
+[05-Dec-2015 12:43:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 184
+[05-Dec-2015 12:43:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 184
+[05-Dec-2015 16:24:34 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduBackground in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 32
+[05-Dec-2015 16:24:34 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduGoal in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 33
+[05-Dec-2015 16:24:34 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduCurrentStatus in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 34
+[05-Dec-2015 16:24:34 America/Chicago] PHP Notice:  Undefined index: wiseIntakeIntendedPrograms in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 35
+[05-Dec-2015 16:26:32 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduBackground in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 32
+[05-Dec-2015 16:26:32 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduGoal in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 33
+[05-Dec-2015 16:26:32 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduCurrentStatus in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 34
+[05-Dec-2015 16:26:32 America/Chicago] PHP Notice:  Undefined index: wiseIntakeIntendedPrograms in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 35
+[05-Dec-2015 16:27:00 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduBackground in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 32
+[05-Dec-2015 16:27:00 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduGoal in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 33
+[05-Dec-2015 16:27:00 America/Chicago] PHP Notice:  Undefined index: wiseIntakeEduCurrentStatus in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 34
+[05-Dec-2015 16:27:00 America/Chicago] PHP Notice:  Undefined index: wiseIntakeIntendedPrograms in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 35
+[05-Dec-2015 16:53:40 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 68
+[05-Dec-2015 16:59:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 65
+[05-Dec-2015 17:41:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '{' in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 66
+[05-Dec-2015 17:41:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 74
+[05-Dec-2015 17:42:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 77
+[05-Dec-2015 17:43:40 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 55
+[05-Dec-2015 22:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 95
+[05-Dec-2015 23:35:30 America/Chicago] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 46
+[05-Dec-2015 23:38:23 America/Chicago] PHP Fatal error:  Call to undefined function wise_check_radio_data() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 97
+[05-Dec-2015 23:38:31 America/Chicago] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 46
+[05-Dec-2015 23:42:29 America/Chicago] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 46
+[05-Dec-2015 23:47:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:47:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:49:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:50:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:50:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:50:59 America/Chicago] PHP Notice:  Uninitialized string offset: 1 in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 144
+[05-Dec-2015 23:50:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:51:05 America/Chicago] PHP Notice:  Uninitialized string offset: 1 in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 144
+[05-Dec-2015 23:51:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:54:10 America/Chicago] PHP Notice:  Uninitialized string offset: 1 in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 144
+[05-Dec-2015 23:54:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:54:46 America/Chicago] PHP Warning:  Illegal string offset 'AAM - Machine Maintenance 1 (Certificate)' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 144
+[05-Dec-2015 23:54:46 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 144
+[05-Dec-2015 23:54:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:55:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[05-Dec-2015 23:55:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 146
+[06-Dec-2015 00:00:30 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:02:38 America/Chicago] PHP Parse error:  syntax error, unexpected ''<br />'' (T_CONSTANT_ENCAPSED_STRING) in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 162
+[06-Dec-2015 00:05:46 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:07:40 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:09:21 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:09:25 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:09:52 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:10:23 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:11:14 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:11:22 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:11:39 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:13:17 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:13:35 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:13:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 75
+[06-Dec-2015 00:17:06 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 82
+[06-Dec-2015 00:50:28 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-1.php on line 82
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: High School not completed in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: High School/GED in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Some College in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Associate Degree in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Bachelor Degree in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Master Degree in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Job Skills Upgrade in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Career Change in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Academic Transfer in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Continuing Education in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Other in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Part-time (11 credits or less) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Full-time (12 credits or more) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: AAM - Machine Maintenance 1 (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: AAM - Machine Maintenance 2 (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Business Foundations (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Customer Services Representative (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Management & Supervision (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Marketing and Sales (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Retail Management (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Associate in Applied Arts (Degree) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: BUS - Bachelor of Applied Sciences (Degree) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Notice:  Undefined index: Undecided or Other (specify): in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:35:47 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: High School not completed in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: High School/GED in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Some College in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Associate Degree in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Bachelor Degree in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Master Degree in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Job Skills Upgrade in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Career Change in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Academic Transfer in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Continuing Education in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Other in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Part-time (11 credits or less) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Full-time (12 credits or more) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: AAM - Machine Maintenance 1 (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: AAM - Machine Maintenance 2 (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Business Foundations (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Customer Services Representative (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Management & Supervision (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Marketing and Sales (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Retail Management (Certificate) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Associate in Applied Arts (Degree) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: BUS - Bachelor of Applied Sciences (Degree) in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Notice:  Undefined index: Undecided or Other (specify): in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:38:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:19 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:44:53 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:46:09 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:31 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 31
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:48:58 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 09:50:31 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 30
+[06-Dec-2015 10:29:50 America/Chicago] PHP Notice:  Undefined variable: eduBackgroundRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 75
+[06-Dec-2015 10:29:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:29:50 America/Chicago] PHP Notice:  Undefined variable: eduGoalRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 80
+[06-Dec-2015 10:29:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:29:50 America/Chicago] PHP Notice:  Undefined variable: eduCurrentStatusRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 85
+[06-Dec-2015 10:29:50 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:29:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 92
+[06-Dec-2015 10:30:37 America/Chicago] PHP Notice:  Undefined variable: eduBackgroundRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 75
+[06-Dec-2015 10:30:37 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:30:37 America/Chicago] PHP Notice:  Undefined variable: eduGoalRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 80
+[06-Dec-2015 10:30:37 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:30:37 America/Chicago] PHP Notice:  Undefined variable: eduCurrentStatusRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 85
+[06-Dec-2015 10:30:37 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:30:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 92
+[06-Dec-2015 10:33:57 America/Chicago] PHP Notice:  Undefined variable: eduBackgroundRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 75
+[06-Dec-2015 10:33:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:33:57 America/Chicago] PHP Notice:  Undefined variable: eduGoalRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 80
+[06-Dec-2015 10:33:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:33:57 America/Chicago] PHP Notice:  Undefined variable: eduCurrentStatusRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 85
+[06-Dec-2015 10:33:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:33:57 America/Chicago] PHP Notice:  Undefined variable: intendedProgramsCheckboxes in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 94
+[06-Dec-2015 10:33:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:36:21 America/Chicago] PHP Notice:  Undefined variable: eduBackgroundRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 75
+[06-Dec-2015 10:36:21 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:36:21 America/Chicago] PHP Notice:  Undefined variable: eduGoalRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 80
+[06-Dec-2015 10:36:21 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:36:21 America/Chicago] PHP Notice:  Undefined variable: eduCurrentStatusRadio in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 85
+[06-Dec-2015 10:36:21 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 10:36:21 America/Chicago] PHP Notice:  Undefined variable: intendedProgramsCheckboxes in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 94
+[06-Dec-2015 10:36:21 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 106
+[06-Dec-2015 11:10:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 132
+[06-Dec-2015 11:10:53 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeEduBackground in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 72
+[06-Dec-2015 11:10:53 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeEduGoal in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 73
+[06-Dec-2015 11:10:53 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeEduCurrentStatus in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 74
+[06-Dec-2015 11:15:17 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 71
+[06-Dec-2015 11:38:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 385
+[06-Dec-2015 14:19:48 America/Chicago] PHP Warning:  require(../wise-intake-db-connection.php): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 4
+[06-Dec-2015 14:19:48 America/Chicago] PHP Warning:  require(../wise-intake-db-connection.php): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 4
+[06-Dec-2015 14:19:48 America/Chicago] PHP Fatal error:  require(): Failed opening required '../wise-intake-db-connection.php' (include_path='.:/opt/php54/lib/php') in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 4
+[06-Dec-2015 14:24:14 America/Chicago] PHP Warning:  require(functions.php): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 7
+[06-Dec-2015 14:24:14 America/Chicago] PHP Warning:  require(functions.php): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 7
+[06-Dec-2015 14:24:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'functions.php' (include_path='.:/opt/php54/lib/php') in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 7
+[06-Dec-2015 14:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 57
+[06-Dec-2015 15:00:34 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 69
+[06-Dec-2015 15:03:28 America/Chicago] PHP Parse error:  syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING) in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 69
+[06-Dec-2015 15:06:15 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 46
+[06-Dec-2015 15:23:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 99
+[06-Dec-2015 16:10:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:84) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 147
+[06-Dec-2015 16:10:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:84) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 147
+[06-Dec-2015 16:11:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:84) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 16:11:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:84) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 16:11:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:84) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 16:11:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:84) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 16:34:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:80) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 16:34:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:80) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 16:35:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:80) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 139
+[06-Dec-2015 16:35:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php:80) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-2.php on line 143
+[06-Dec-2015 19:19:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 197
+[06-Dec-2015 19:19:40 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:20:03 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:24:52 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:25:53 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:27:08 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:30:47 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:31:56 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 19:32:00 America/Chicago] PHP Notice:  Undefined variable: results in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 277
+[06-Dec-2015 20:17:37 America/Chicago] PHP Notice:  Undefined variable: submissionSuccessful in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 305
+[06-Dec-2015 20:17:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php:305) in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 334
+[06-Dec-2015 21:22:18 America/Chicago] PHP Warning:  require(../secure-includes/wise-intake-db-connection.ph): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 113
+[06-Dec-2015 21:22:18 America/Chicago] PHP Warning:  require(../secure-includes/wise-intake-db-connection.ph): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 113
+[06-Dec-2015 21:22:18 America/Chicago] PHP Fatal error:  require(): Failed opening required '../secure-includes/wise-intake-db-connection.ph' (include_path='.:/opt/php54/lib/php') in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 113
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 22:18:25 America/Chicago] PHP Notice:  Undefined index: wiseIntakeLName in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 157
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:13:18 America/Chicago] PHP Notice:  Array to string conversion in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 187
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:16:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:17:06 America/Chicago] PHP Notice:  Undefined variable: programDataCell in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 188
+[06-Dec-2015 23:21:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 179
+[06-Dec-2015 23:21:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 179
+[06-Dec-2015 23:21:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 179
+[06-Dec-2015 23:21:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 179
+[06-Dec-2015 23:21:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 179
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: employer_name in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 203
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: verify_questionnaire in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 207
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: employer_name in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 203
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: verify_questionnaire in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 207
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: employer_name in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 203
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: verify_questionnaire in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 207
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: employer_name in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 203
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: verify_questionnaire in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 207
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: employer_name in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 203
+[06-Dec-2015 23:26:42 America/Chicago] PHP Notice:  Undefined index: verify_questionnaire in /home/alexb/public_html/305/final-project/public_html/wise-intake-table.php on line 207
+[07-Dec-2015 21:27:40 America/Chicago] PHP Fatal error:  Call to undefined function search_array() in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-1.php on line 47
+[07-Dec-2015 21:29:32 America/Chicago] PHP Notice:  Undefined variable: isOtherProgramGiven in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-1.php on line 95
+[07-Dec-2015 21:29:37 America/Chicago] PHP Notice:  Undefined variable: isOtherProgramGiven in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-1.php on line 95
+[07-Dec-2015 22:21:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$wiseIntakeDemoGender' (T_VARIABLE) in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 37
+[07-Dec-2015 22:48:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 73
+[07-Dec-2015 22:49:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 73
+[07-Dec-2015 22:49:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 73
+[07-Dec-2015 22:51:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 82
+[07-Dec-2015 22:57:57 America/Chicago] PHP Warning:  Missing argument 2 for wise_validate(), called in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 80 and defined in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 87
+[07-Dec-2015 22:57:57 America/Chicago] PHP Notice:  Undefined variable: errorMessage in /home/alexb/public_html/305/final-project/public_html/includes/functions.php on line 98
+[08-Dec-2015 11:01:12 America/Chicago] PHP Notice:  Undefined variable: isOtherProgramGiven in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-1.php on line 95
+[08-Dec-2015 11:01:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-1.php:95) in /home/alexb/public_html/305/final-project/public_html/includes/wise-form-validation-1.php on line 121
+[08-Dec-2015 15:48:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/alexb/public_html/305/final-project/public_html/wise-intake-form-2.php on line 122
+[09-Dec-2015 21:04:40 America/Chicago] PHP Warning:  require(../../secure-includes/wise-intake-db-connection.php): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/exports/wise-intake-export-to-csv.php on line 3
+[09-Dec-2015 21:04:40 America/Chicago] PHP Warning:  require(../../secure-includes/wise-intake-db-connection.php): failed to open stream: No such file or directory in /home/alexb/public_html/305/final-project/public_html/exports/wise-intake-export-to-csv.php on line 3
+[09-Dec-2015 21:04:40 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../secure-includes/wise-intake-db-connection.php' (include_path='.:/opt/php54/lib/php') in /home/alexb/public_html/305/final-project/public_html/exports/wise-intake-export-to-csv.php on line 3
+[09-Dec-2015 22:12:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/alexb/public_html/305/final-project/public_html/wise-intake-submit-form.php on line 443
+[15-Dec-2015 16:50:18 America/Chicago] PHP Notice:  Undefined variable: pageNumber in /home/alexb/public_html/305/final-project/public_html/includes/wise-header.php on line 19
+[16-Dec-2015 16:58:31 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 16:58:31 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 16:59:26 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 16:59:26 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:00:04 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:00:04 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:00:23 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:00:23 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:01:08 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:01:08 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:01:18 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:01:18 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:01:45 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:01:45 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:02:54 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:02:54 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:03:06 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:03:06 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:03:27 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:03:27 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:04:11 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:04:11 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:04:24 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:04:24 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:05:22 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:05:22 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:06:34 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginUsername in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 81
+[16-Dec-2015 17:06:34 America/Chicago] PHP Notice:  Undefined variable: wiseIntakeTableLoginPassword in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 90
+[16-Dec-2015 17:18:09 America/Chicago] PHP Notice:  Undefined variable: successfulLogin in /home/alexb/public_html/305/final-project/public_html/wise-intake-table-login.php on line 43

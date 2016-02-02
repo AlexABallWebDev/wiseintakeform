@@ -1,0 +1,126 @@
+/*
+ *Author: Alex Ball
+ *Date: 11/30/2015
+ *IT 305 Final Project
+ *WISE Intake Form
+ *
+ *filename: wise-style.css
+ *
+ *This stylesheet is used for the WISE intake form.
+ */
+
+/*page background color and default font-family*/
+body {
+	font-family: Tahoma, Arial, sans-serif;
+	background-color: beige;
+	width: 100%;
+	padding: 10px 10px 20px 10px;
+}
+
+/*serif font class*/
+.serif-font {
+	font-family: "Times New Roman", serif;
+}
+
+/*remove top padding for some elements. used mainly to reduce the page's height by a bit.*/
+.no-padding-top {
+	padding-top: 0px;
+}
+
+/*change padding to 10 px for some elements. used to keep elements from being too squished.*/
+.padding-top-10 {
+	padding-top: 10px;
+}
+
+/*header styling*/
+#header {
+	background-color: white;
+	padding-top: 10px;
+}
+
+#header #title-heading h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+/*end header styling*/
+
+/*styling for note on the questionnaire pages (1 and 2) about required fields (asterisk)*/
+div.container div.required-note {
+	color: red;
+	display: block;
+	margin-top: 10px;
+}
+
+/*form styling*/
+.form-error {
+	color: red;
+}
+
+fieldset legend {
+	font-size: 25px;
+	padding-top: 10px;
+}
+
+/*radio and checkbox list legends*/
+fieldset fieldset legend {
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+fieldset legend span.sub-legend {
+	font-size: 15px;
+}
+
+/*increased font size for the verify-statements at the end each part of the form.*/
+.verify-statement {
+	font-size: 17px;
+}
+
+/*used for clearing floats*/
+.clear-both-floats {
+	clear: both;
+}
+
+/*used to change left margin to 30px*/
+.left-margin-30 {
+	margin-left: 30px;
+}
+
+div.page-swap {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	/*margin-bottom: 20px;*/
+	font-size: 17px;
+	background-color: inherit;
+}
+
+.black-text {
+	color: black;
+}
+
+button.previous-page {
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 5px 10px;
+}
+
+button.next-page {
+	float: right;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 5px 10px;
+}
+
+.disclaimer {
+	font-size: 11px;
+}
+/*end form styling*/
+
+/*footer styles*/
+.footer {
+	font-size: 15px;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
